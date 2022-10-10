@@ -1,0 +1,22 @@
+{
+  "name": "ABMagicDeepLinkTestModule",
+  "version": "0.1.0",
+  "summary": "A short description of ABMagicDeepLinkTestModule.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/John Banks/ABMagicDeepLinkTestModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "John Banks": "jonathan.banks@albertsons.com"
+  },
+  "source": {
+    "git": "https://github.com/John Banks/ABMagicDeepLinkTestModule.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "ABMagicDeepLinkTestModule/Classes/**/*"
+}

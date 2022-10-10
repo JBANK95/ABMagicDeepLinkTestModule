@@ -1,0 +1,6 @@
+use_frameworks!
+target 'ABMagicDeepLinkTestModule_Tests' do
+  pod 'ABMagicDeepLinkTestModule', :path => '../'
+  
+  
+end
