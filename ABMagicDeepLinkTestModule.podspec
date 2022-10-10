@@ -6,6 +6,7 @@ Pod::Spec.new do |spec|
   spec.authors      = { 'Jonathan Banks' => 'jbank95@safeway.com' }
   spec.source       = { :git => 'https://github.com/JBANK95/ABMagicDeepLinkTestModule.git', :tag => "#{spec.version}" }
   spec.source_files = 'ABMagicDeepLinkTestModule/*'
+  spec.homepage = 'does not matter'
   spec.swift_version = "5.3"
   spec.platform      =  :ios, "11.0"
   spec.static_framework = true
