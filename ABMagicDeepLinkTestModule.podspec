@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = 'ABMagicDeepLinkTestModule'
-  spec.version      = '1.0.0'
+  spec.version      = '2.0.0'
   spec.summary      = 'Test Module'
   spec.license = { :type => 'Commercial', :text => 'Created and licensed by Albertsons Companies. Copyright Albertsons Companies, LLC. All rights reserved.' }
   spec.homepage     = 'https://github.com/kiransar/ABMagicDeeplink-iOS.git'
